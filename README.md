@@ -3,7 +3,7 @@
 # [Creating an S3 Bucket in AWS](https://app.tango.us/app/workflow/0b178a1c-f189-487c-9a08-bb1293b62b37?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
 
 __Creation Date:__ Aug 24, 2024  
-__Created By:__ Shiva's eternal flame  
+__Created By:__ DataFlowGuru  
 [View most recent version on Tango.us](https://app.tango.us/app/workflow/0b178a1c-f189-487c-9a08-bb1293b62b37?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
 
 
@@ -36,5 +36,3 @@ Create S3 bucket ](https://us-east-1.console.aws.amazon.com/s3/bucket/create?reg
 
 <br/>
 
-***
-Created with [Tango.us](https://tango.us?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
